@@ -1,0 +1,1 @@
+# INGInious-templates
